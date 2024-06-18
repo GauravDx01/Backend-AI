@@ -1,0 +1,51 @@
+GoLang is an open-source programming language and it is straightforward to learn and read by other developers. It is based on the syntax of C/C++ with additional features like memory safety, automatic declaration of variables, structural typing, and CSP. This idea for developing open-source projects came up by Google engineers named Robert Griesemer, Rob Pike, and Ken Thompson. The main agenda to develop this language is to resolve the issues or difficulties that were created by the other programming language golang while writing the code. The latest technology works with multiple technologies and is integrated easily with any programming language.
+
+With the whip hand over its rivals, GoLang has brilliantly ascended the Tiobe Index – one that demonstrates software programmers’ inclinations and top choices. No big surprise it is being utilized in different applications around the world, including Dropbox, SoundCloud, Cloud Foundry, and numerous others! The programming language golang libraries are fast, statistically typed, and compiled language that looks like it is dynamically created.  As a highly performant programming language golang has proven to be a popular choice among software programmers and developers worldwide, with its efficient libraries and statically typed syntax making it a top choice for applications like Dropbox, SoundCloud, and Cloud Foundry.
+
+Did You Know?
+
+GoLang is ranked the top 11th most popular programming application according to the TIOBE index 2022.
+
+
+Like other programming languages, this language also has advantages and disadvantages while developing the project. Like any other programming language golang has its own set of advantages and disadvantages that developers should consider when choosing a language for their project. Let’s discuss some of its pros and cons – 
+
+Simplicity and Ease of Use
+Advantage –  GoLang is developed with a simple structure so it is one of the main reasons to use Go Lang pro for many reputed organizations. Its syntax is small and very easy to learn. The Go programming language is much similar to C/C++ so, it’s a beneficial point for developers, they can understand easily its basic fundamentals. Despite the fact that it comes up short of the usefulness of other programming languages, its scope has been intentionally restricted to keep it basic. Besides, for those falling flat at multithreading codes, programming with Go is a place of refuge for foundation coding undertakings.
+
+Disadvantage – Although it is very simple to use sometimes it displays errors while integrating the GoLang pro with bigger projects. It would then be rash to disregard the other cleverer programming languages that have better bug-battling capacities. For those searching for generics, exemptions, and extensibility this programming language would be disheartened. While the programming language golang has gained popularity due to its simplicity, it can sometimes present challenges when integrating with larger projects, which can lead to errors
+
+Virtual Machine Dependencies
+Advantage – It allows you to work in a relaxed environment because it doesn’t depend upon the Virtual Machine Dependencies. The code written by the developer in this language is compiled into binary digits and ready to go for running the program. The programming language golang doesn’t need any virtual machine dependencies to compile the code. The paragraph is referring to the advantages of the programming language golang, also known as Golang. Golang allows developers to work in a relaxed environment because it doesn’t depend upon virtual machine dependencies.
+
+Basically, enter the executable’s name in the order line and hit Return. So, conditions are not an issue with GoLang in light of the fact that it accompanies a reliance chief. As virtual machines are not engaged with running codes, any product created utilizing this programming language golang would benefit from fewer assets. Most importantly, it empowers quicker troubleshooting cycles. Programming language Golang dependency manager and lack of virtual machine dependencies make it easy to run executable files, regardless of the underlying system conditions.
+
+Disadvantage –  GoLang needs to integrate with the virtual machine dependencies because it needs more storage to convert the language into binary digits. Although, the RAM may be congested when the server breakdown by receiving heavy versions of code. Moreover, it permits conditions to be communicated inside the very document that contains the reliant code. Although this is something worth being thankful for, no developer can show a particular variant of the conditions.
+
+
+Automation
+Advantage – As we discussed above, GoLang offers many advanced features while developing like default declaration of variables, fast compile times, and remission-free garbage collection. It totally wards off the manual memory on the board. Such mechanization at last saves time.  One of the major advantages of using the programming language golang is its advanced features that can streamline the development process, such as the automatic variable declaration, fast compile times, and garbage collection without the need for manual memory management.
+
+Disadvantage –  Ask any software developer and he will enlighten you concerning the entanglements of utilizing robotization highlights in the programming language golang. Consider the possibility that trash assortment is set off at some unacceptable time prompting blunders and postponement in waiter code reactions. Consider the possibility that a similar variable name gets utilized in settled degrees and programmed statements goof it up. Envision the turmoil! Doesn’t the belts-and-suspenders approach appear to be more coherent?
+
+
+Source: https://go.dev/
+Classic Syntax of C 
+Advantage –  GoLang has similar features to the C language but includes some advanced features like the remission of free garbage collections and its simple structure. Everything reminds you about C when you develop the project on GoLang pro. It has a similar classic syntax to the C language. The programming language golang includes some advanced features, such as the remission of free garbage collections and its simple structure, which sets it apart from C and other programming languages.
+
+Disadvantage: There are other programming languages too, that look like C. Think about any semblance of Java, Swift, Rust, C#, C++, and Objective-C. In addition, writing computer programs isn’t just about characterizing fundamental blocks in compiler development or liking wavy supports. Furthermore, regardless of whether it is, other programming languages have quite a lot more to offer. Furthermore, the programming language golang, have some useful features, other programming languages may offer even more powerful capabilities and tools to meet specific programming needs.
+
+Below are some points that clearly define what things you will love and hate about GoLang.
+
+Things you love while using GoLang
+It is small and simple and things are easy to use.
+It has Google’s full support.
+It has a minor orthogonal feature in which everything works together without surprises.
+It has a source code formatted that helps to understand other people’s code easily.
+‘Defer’ is the special feature of GoLang that delays the execution of functions until a nearby function returns.
+Things you hate while using GoLang
+It has poor library support and it is hard to choose a framework to work with.
+Using GoLang pro you won’t learn object-oriented programming because GoLang has its own way of doing things.
+It’s a high-level language with low-level features.
+Its interface method doesn’t support default implementation.
+Its simplicity appears to be shallow as a result of its inside irregularities.
+So, these are the basic advantages and disadvantages of GoLang. It is developed by Google, so its compatibility is extremely good with Windows operating system. Considering its advantages and disadvantages you have to choose wisely for your upcoming project. The advantages and disadvantages of the Go programming language golang should be carefully considered when choosing a programming language for a project. The programming language golang offers unique advantages and disadvantages that should be taken into account when choosing a language for a programming project.
