@@ -10,7 +10,10 @@ const permissionSchema = new mongoose.Schema({
 const roleSchema = new mongoose.Schema({
   role: { type: String, required: true, maxlength: 50 },
   description: { type: String, required: true, minlength: 10, maxlength: 200 },
-  permissions: { type: permissionSchema, required: true }
+  permissions: [{
+    moduleName: { type: String, required: true },
+    permissions: { type: permissionSchema, required: true }
+  }]
 });
 
 const Role = mongoose.model('Role', roleSchema);

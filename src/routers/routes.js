@@ -3,7 +3,7 @@ const express = require('express');
 const questionController = require('../controllers/questionController');
 const {getParagraphs, getStoredData} = require('../controllers/fetchData')
 const scrapeController = require('../controllers/scrapeController');
-const {register , login} = require('../controllers/authController')
+const {register , login , getUser , editUser , deleteUser , getAllUsers} = require('../controllers/authController')
 const {createRole , getRoles , getRouteForEdit , editRole , delRoles} = require('../controllers/roleController')
 const router = express.Router();
 
@@ -20,5 +20,9 @@ router.get('/get-roles' , getRoles )
 router.get('/edit-role/:id' , getRouteForEdit )
 router.put('/edit-role/:id' , editRole)
 router.delete('/delete-role/:id' , delRoles)
+router.get('/get-user/:id' , getUser)
+router.put('/get-user/:id' , editUser)
+router.delete('/delete-user/:id' , deleteUser)
+router.get('/getAllUsers' , getAllUsers)
 
 module.exports = router;

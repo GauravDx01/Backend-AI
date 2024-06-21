@@ -1,0 +1,90 @@
+
+          
+            
+          
+        
+
+    Something went wrong, please sign-in another way or follow any instructions provided by your device.
+  
+
+    Sorry, your passkey is not working. There might be a problem with the server. Sign in with your password or try your passkey again later.
+  
+
+Our mission is to be Earth's most customer-centric company. This is what unites Amazonians across teams and geographies as we are all striving to delight our customers and make their lives easier, one innovative product, service, and idea at a time.
+You’re about to go outside of Amazon to facebook.com. Do you want to proceed?
+Go to facebook.com
+Stay on Amazon
+You’re about to go outside of Amazon to twitter.com. Do you want to proceed?
+Go to twitter.com
+Stay on Amazon
+You’re about to go outside of Amazon to instagram.com. Do you want to proceed?
+Go to instagram.com
+Stay on Amazon
+ 
+Export via e-commerce and reach hundreds of millions of customers shopping on Amazon globally.
+Amazon operates stores worldwide, allowing you to grow your business internationally regardless of where you’re located.
+Help boost sales of individual products with a single click to conversion to take shoppers directly to your product detail page with Sponsored Products.
+Sellers with a Sponsored Products campaign that ran for 12 months continuously saw on average 11.2% higher return on ad spend (ROAS), compared to their ROAS in the first month. 1
+Amazon Ads can help you achieve your marketing goals, whether that's building brand awareness, driving sales or increasing customer loyalty. This guide will teach you the basics of digital advertising, how to set your goals and how to choose the right ad solutions for your business.
+You can still advertise with us.
+Whether you sell pizzas, cars or theatre tickets, or you offer educational programmes, home repairs or fitness classes – all businesses can start using Sponsored Display today.
+See how we can help your brand reach new heights.
+Learn how Amazon Ads helps brands design advertising experiences that delight customers and deliver results.
+Want to help grow your business? Browse our library of free courses for all levels of advertisers.
+Take a deep dive into our courses, case studies, guides and research to enhance your advertising strategy.
+Understand the latest trends in advertising today through nuanced reporting, in-depth profiles, industry analyses and Q&As with business leaders.
+As the Amazon Ads suite of offerings continues to grow, stay on top of our newest ad solutions.
+1 Amazon internal data, WW, 01/06/2019–30/07/2021
+Welcome to Amazon Ads. To help you get started, we have answered some of the most frequently asked questions from newcomers.
+Amazon Ads offers a range of products and information to help achieve advertising goals for registered sellers, vendors, book vendors, Kindle Direct Publishing authors, app developers and/or agencies. (Refer to each product’s page for eligibility criteria.) With our insights, reach and premium entertainment properties from music to streaming, you can connect with the right audiences in the right places, both on Amazon and wherever they spend time.
+To get started with self-service advertising products, including Sponsored Products, Sponsored Brands, Sponsored Display and Stores, visit the Register page and choose one of the options to enrol.Display ads, video ads and ads that run through the Amazon DSP can be managed independently or with an Amazon Ads account executive.
+Our reporting and measurement solutions help all advertisers—from start-ups to leading advertising agencies and established brands—accurately measure the impact of advertising and make it easy to plan, optimise and measure marketing strategies.
+Amazon Ads can help you optimise your campaigns and achieve advertising success. Find out more about our ad products, read our blog, take learning console courses and dive deep in our library of resources.
+With hundreds of millions of worldwide active customer accounts, Amazon is a place for readers to discover, purchase and read books. Amazon Ads offers book marketing solutions that can help you reach all different types of book buyers, wherever they are in their purchasing journey, from brand awareness through to sale. Learn more about advertising books.
+Amazon
+lens
+Search with any image
+Drag an image here
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS). 
+Questions about getting started with AWS? Connect with an expert »
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS). 
+Questions about getting started with AWS?  Connect with an expert »
+Organizations of every type, size, and industry are using the cloud for a wide variety of use cases, such as data backup, disaster recovery, email, virtual desktops, software development and testing, big data analytics, and customer-facing web applications. For example, healthcare companies are using the cloud to develop more personalized treatments for patients. Financial services companies are using the cloud to power real-time fraud detection and prevention. And video game makers are using the cloud to deliver online games to millions of players around the world. 
+ The cloud gives you easy access to a broad range of technologies so that you can innovate faster and build nearly anything that you can imagine. You can quickly spin up resources as you need them–from infrastructure services, such as compute, storage, and databases, to Internet of Things, machine learning, data lakes and analytics, and much more. 
+ You can deploy technology services in a matter of minutes, and get from idea to implementation several orders of magnitude faster than before. This gives you the freedom to experiment, test new ideas to differentiate customer experiences, and transform your business. 
+ The cloud gives you easy access to a broad range of technologies so that you can innovate faster and build nearly anything that you can imagine. You can quickly spin up resources as you need them–from infrastructure services, such as compute, storage, and databases, to Internet of Things, machine learning, data lakes and analytics, and much more. 
+ You can deploy technology services in a matter of minutes, and get from idea to implementation several orders of magnitude faster than before. This gives you the freedom to experiment, test new ideas to differentiate customer experiences, and transform your business.
+With cloud computing, you don’t have to over-provision resources up front to handle peak levels of business activity in the future. Instead, you provision the amount of resources that you actually need. You can scale these resources up or down to instantly grow and shrink capacity as your business needs change. 
+With cloud computing, you don’t have to over-provision resources up front to handle peak levels of business activity in the future. Instead, you provision the amount of resources that you actually need. You can scale these resources up or down to instantly grow and shrink capacity as your business needs change. 
+The cloud allows you to trade fixed expenses (such as data centers and physical servers) for variable expenses, and only pay for IT as you consume it. Plus, the variable expenses are much lower than what you would pay to do it yourself because of the economies of scale. 
+The cloud allows you to trade fixed expenses (such as data centers and physical servers) for variable expenses, and only pay for IT as you consume it. Plus, the variable expenses are much lower than what you would pay to do it yourself because of the economies of scale. 
+ With the cloud, you can expand to new geographic regions and deploy globally in minutes. For example, AWS has infrastructure all over the world, so you can deploy your application in multiple physical locations with just a few clicks. Putting applications in closer proximity to end users reduces latency and improves their experience. 
+ With the cloud, you can expand to new geographic regions and deploy globally in minutes. For example, AWS has infrastructure all over the world, so you can deploy your application in multiple physical locations with just a few clicks. Putting applications in closer proximity to end users reduces latency and improves their experience. 
+ IaaS contains the basic building blocks for cloud IT. It typically provides access to networking features, computers (virtual or on dedicated hardware), and data storage space. IaaS gives you the highest level of flexibility and management control over your IT resources. It is most similar to the existing IT resources with which many IT departments and developers are familiar. 
+ IaaS contains the basic building blocks for cloud IT. It typically provides access to networking features, computers (virtual or on dedicated hardware), and data storage space. IaaS gives you the highest level of flexibility and management control over your IT resources. It is most similar to the existing IT resources with which many IT departments and developers are familiar. 
+ PaaS removes the need for you to manage underlying infrastructure (usually hardware and operating systems), and allows you to focus on the deployment and management of your applications. This helps you be more efficient as you don’t need to worry about resource procurement, capacity planning, software maintenance, patching, or any of the other undifferentiated heavy lifting involved in running your application. 
+ PaaS removes the need for you to manage underlying infrastructure (usually hardware and operating systems), and allows you to focus on the deployment and management of your applications. This helps you be more efficient as you don’t need to worry about resource procurement, capacity planning, software maintenance, patching, or any of the other undifferentiated heavy lifting involved in running your application. 
+ SaaS provides you with a complete product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user applications (such as web-based email). With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think about how you will use that particular software. 
+ SaaS provides you with a complete product that is run and managed by the service provider. In most cases, people referring to SaaS are referring to end-user applications (such as web-based email). With a SaaS offering, you don’t have to think about how the service is maintained or how the underlying infrastructure is managed. You only need to think about how you will use that particular software. 
+ AWS has more services, and more features within those services, than any other cloud provider, including compute, storage, databases, networking, data lakes and analytics, machine learning and artificial intelligence, IoT, security, and much more.
+AWS has more services, and more features within those services, than any other cloud provider, including compute, storage, databases, networking, data lakes and analytics, machine learning and artificial intelligence, IoT, security, and much more. 
+AWS offers a pay-as-you-go approach for pricing.  Pricing for each service is unique.  
+AWS has over 200 fully featured services for a wide range of technologies, industries, and use cases. 
+AWS has the most extensive, reliable, and secure global cloud infrastructure. 
+Special Prime offer
+Audible is a membership service that provides customers with a huge selection of audiobooks as well as podcasts, exclusive originals and more.
+If you're new to Audible, you can take free membership trial for 30 days. Your membership will automatically continue for ₹199/month after the first 30 days, and you can cancel anytime.
+Download the free Audible app to start listening on your iOS or Android device. You can also listen on any Alexa-enabled device.
+As an Audible member, your subscription includes:
+Amazon Prime members can take a free 30-day trial and receive 2 credits that can be used on any 2 titles from of their choice. After the trial period, membership is ₹199/month for 1 credit per month.
+You can cancel your membership at anytime at no cost. Titles added to your Library with a credit are yours to keep, even if you cancel.
+Vacation With
+Zimmermann
+The Aussie label's latest is up for every sunny destination.
+Get Some Inspiration
+What Are You Looking For?
+The Dress Shop
+European Escape
+Everyday Essentials
+Pool-Ready Picks
+Under $200

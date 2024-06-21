@@ -6,6 +6,16 @@ const userSchema = new mongoose.Schema({
     type: String,
     enum: ["user", "admin", "superadmin"],
     default: "user",
+    
   },
+  phoneNumber : {
+    type: String
+  },
+  gender : {
+    type : String
+  },
+  email :{
+    type : String
+  }
 });
 module.exports = mongoose.model('user' , userSchema)
